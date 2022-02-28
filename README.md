@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sashazenit4
-- 👀 I’m interested in, WEB, machining, sport and psychology
+- 👀 I’m interested in WEB, machining, sport and psychology
 - 🌱 I’m currently learning PHP (Bitrix-framework), English and EIQ
 - 💞️ I’m looking to collaborate on the sphere of establishing peace in Eastern Europe
 - 📫 How to reach me
